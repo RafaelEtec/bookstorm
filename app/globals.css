@@ -25,6 +25,15 @@
     .hide-scrollbar::-webkit-scrollbar-thumb:hover {
         background: transparent;
     }
+
+    Input[type="number"]::-webkit-inner-spin-button,
+    Input[type="number"]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+    Input[type="number"] {
+        appearance: textfield
+    }
 }
 
 @layer components {

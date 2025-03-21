@@ -41,17 +41,17 @@ export const adminSideBarLinks = [
 ];
 
 export const FIELD_NAMES = {
-  fullname: "Full name",
-  email: "Email",
-  universityId: "University ID Number",
-  password: "Password",
-  universityCard: "Upload University ID Card",
+  fullName: "Nome completo",
+  email: "E-mail",
+  universityRa: "RA",
+  password: "Senha",
+  universityDoc: "Declaração de matrícula (upload de arquivo)",
 };
 
 export const FIELD_TYPES = {
-  fullname: "text",
+  fullName: "text",
   email: "email",
-  universityId: "number",
+  universityRa: "number",
   password: "password",
 };
 
