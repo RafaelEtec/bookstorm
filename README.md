@@ -1,4 +1,6 @@
 ![Cover](https://github.com/user-attachments/assets/36fa901b-0428-4a71-a5c8-1a5561eba538)
+## Bem vindo ao BookStorm 👋
+Uma plataforma moderna e escalável. Permite empréstimo de livros com notificações automáticas, gestão de usuários e análise de dados. Conta com uma interface intuitiva para usuários e um painel administrativo completo. Utiliza tecnologias avançadas para garantir desempenho, segurança e automação.
 
 ## 🛠️ Acesse
 - [BookStorm](https://bookstorm-wine.vercel.app/) (Versão de Desenvolvimento)
