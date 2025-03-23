@@ -9,3 +9,7 @@
 - [Next.js](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Upstash](https://upstash.com/) (Redis, QStash & Workflow)
+- [Vercel](https://vercel.com/) (Deploy)
+- [Neon](https://neon.tech) (Postgres database)
+- [Auth.js](https://authjs.dev/) (Email & Password Auth)
